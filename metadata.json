@@ -1,0 +1,6 @@
+{
+  "name": "VE-Log Baustellen-Nachkalkulation",
+  "description": "Baustellen direkt im Browser nachkalkulieren. Angebote, Rechnungen, Stundenzettel und Belege aus PDF und Excel automatisch einlesen und Plan-Ist vergleichen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
